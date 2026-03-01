@@ -51,6 +51,7 @@ System architecture and flow diagrams will be added in the `/assets` folder.
 ---
 
 ## 👨‍💻 Team
-
+S.DHANUSH, K SAI LINGESHWARAN.
 AMD Slingshot 2026 Submission
+
 
